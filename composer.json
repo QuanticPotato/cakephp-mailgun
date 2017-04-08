@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "cakephp/cakephp": ">=3.0.0 <4.0",
+        "cakephp/cakephp": ">=3.0.0",
         "mailgun/mailgun-php": "^2.1",
         "php-http/guzzle6-adapter": "^1.1"
     },
